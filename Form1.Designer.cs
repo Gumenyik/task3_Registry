@@ -35,11 +35,11 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(58, 26);
+            this.button1.Location = new System.Drawing.Point(12, 48);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(119, 45);
+            this.button1.Size = new System.Drawing.Size(332, 100);
             this.button1.TabIndex = 0;
-            this.button1.Text = "button1";
+            this.button1.Text = "Вивести дані";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -54,11 +54,11 @@
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(58, 154);
+            this.button3.Location = new System.Drawing.Point(12, 257);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(119, 41);
+            this.button3.Size = new System.Drawing.Size(332, 99);
             this.button3.TabIndex = 2;
-            this.button3.Text = "button3";
+            this.button3.Text = "Внести дані";
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
